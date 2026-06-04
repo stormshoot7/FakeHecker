@@ -65,9 +65,8 @@ for i = 1, 100 do
   for i = 1, 32 do
     num = math.random(1, 10)
     io.write(num)
-    print("")
   end
-  
+  print("")
 end
 
 os.execute("sleep 0.5")
@@ -120,9 +119,8 @@ elseif option == "2" then
    for i = 1, 8 do
       bin = math.random(0, 1)
       io.write(bin)
-      print("")
     end
-  
+  print("")
   end
   
   os.execute("sleep 0.5")
@@ -154,9 +152,8 @@ elseif option == "3" then
     for i = 1, 32 do
       num = math.random(1, 9999)
       io.write(num)
-      print("")
     end
-  
+  print("")
   end
   
   os.execute("clear")
@@ -176,9 +173,8 @@ elseif option == "4" then
     for i = 1, 32 do
       num = math.random(1, 8)
       io.write(num)
-      print("")
     end
-  
+  print("")
   end
   
   os.execute("sleep 0.5")
