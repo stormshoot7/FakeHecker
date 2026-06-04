@@ -18,6 +18,13 @@ Scare your friends!
 2) CD to Downloads
 3) Run file (`lua filename.lua`)
 
+# I havent tested this
+### because I'm lazy
+DM me if you want new features or any fixes.
+If anyone asks to make it work on Windows I will spontaneously combust
+
+`_stormshoot`
+
 # I'm not AI i swear
 
 I'm not artificial intelligence. I am become genuine stupidity.
