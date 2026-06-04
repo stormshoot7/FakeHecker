@@ -28,3 +28,6 @@ If anyone asks to make it work on Windows I will spontaneously combust
 # I'm not AI i swear
 
 I'm not artificial intelligence. I am become genuine stupidity.
+
+# Go read the license
+I made it myself. Ish. Feel free to mod it to fit your projects.
