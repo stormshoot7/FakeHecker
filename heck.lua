@@ -43,9 +43,8 @@ for i = 1, 128 do
   for i = 1, 8 do
     bin = math.random(0, 1)
     io.write(bin)
-    print("")
   end
-  
+  print("")
 end
 
 os.execute("sleep 0.5")
